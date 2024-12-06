@@ -2906,3 +2906,10 @@ color-mix(in srgb, var(--accent-color), transparent 90%);
     margin-left: 0px;
   }
 }
+
+.input-box input[type="file"] {
+  padding-top: 10px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
